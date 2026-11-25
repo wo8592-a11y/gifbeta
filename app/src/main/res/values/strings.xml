@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">정보채널</string>
+    <string name="offline_title">연결할 수 없습니다</string>
+    <string name="offline_message">인터넷 연결을 확인한 뒤 다시 시도해 주세요.</string>
+    <string name="retry">다시 시도</string>
+    <string name="download_started">파일을 저장하고 있습니다.</string>
+    <string name="download_failed">파일을 저장하지 못했습니다.</string>
+    <string name="choose_file">첨부할 파일 선택</string>
+    <string name="cannot_open_file">파일을 선택할 수 있는 앱이 없습니다.</string>
+    <string name="cannot_open_link">이 링크를 열 수 없습니다.</string>
+</resources>
